@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="nOvM6T_qexoSWK1zd7gY">
-    <mxGraphModel dx="2352" dy="-88" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4103" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,7 +260,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5iJU_Su8zKrEEDDgplCR-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="For each individual faces : is it a triangle" vertex="1">
+        <mxCell id="5iJU_Su8zKrEEDDgplCR-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" value="For each individual faces : is it a triangle" vertex="1">
           <mxGeometry height="60" width="120" x="110" y="2580" as="geometry" />
         </mxCell>
         <mxCell id="5iJU_Su8zKrEEDDgplCR-16" edge="1" parent="1" source="5iJU_Su8zKrEEDDgplCR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
@@ -268,7 +268,7 @@
             <mxPoint x="440" y="2610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5iJU_Su8zKrEEDDgplCR-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="keep it like that&amp;nbsp;" vertex="1">
+        <mxCell id="5iJU_Su8zKrEEDDgplCR-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" value="keep it like that&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="2660" as="geometry" />
         </mxCell>
         <mxCell id="5iJU_Su8zKrEEDDgplCR-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="YES" vertex="1">
@@ -279,7 +279,7 @@
             <mxPoint x="440" y="2620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5iJU_Su8zKrEEDDgplCR-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Divide it in triangles and don&#39;t recalculate normals just copy them for each tri" vertex="1">
+        <mxCell id="5iJU_Su8zKrEEDDgplCR-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFFF00;" value="Divide it in triangles and don&#39;t recalculate normals just copy them for each tri" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="2510" as="geometry" />
         </mxCell>
         <mxCell id="5iJU_Su8zKrEEDDgplCR-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NO" vertex="1">
@@ -288,7 +288,7 @@
         <mxCell id="5iJU_Su8zKrEEDDgplCR-21" edge="1" parent="1" source="5iJU_Su8zKrEEDDgplCR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5iJU_Su8zKrEEDDgplCR-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5iJU_Su8zKrEEDDgplCR-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Generate new model with only triangles" vertex="1">
+        <mxCell id="5iJU_Su8zKrEEDDgplCR-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFF00;fillColor=#FFFF00;" value="Generate new model with only triangles" vertex="1">
           <mxGeometry height="85" width="170" x="540" y="2580" as="geometry" />
         </mxCell>
         <mxCell id="5iJU_Su8zKrEEDDgplCR-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="5iJU_Su8zKrEEDDgplCR-14" value="">
@@ -306,19 +306,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5iJU_Su8zKrEEDDgplCR-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate radius based on model&#39;s scale" vertex="1">
+        <mxCell id="5iJU_Su8zKrEEDDgplCR-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" value="Calculate radius based on model&#39;s scale" vertex="1">
           <mxGeometry height="60" width="120" x="540" y="2760" as="geometry" />
         </mxCell>
         <mxCell id="5iJU_Su8zKrEEDDgplCR-23" edge="1" parent="1" source="5iJU_Su8zKrEEDDgplCR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5iJU_Su8zKrEEDDgplCR-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5iJU_Su8zKrEEDDgplCR-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Load Model with trimesh" vertex="1">
+        <mxCell id="5iJU_Su8zKrEEDDgplCR-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" value="Load Model with trimesh" vertex="1">
           <mxGeometry height="60" width="120" x="820" y="2592.5" as="geometry" />
         </mxCell>
         <mxCell id="5iJU_Su8zKrEEDDgplCR-26" edge="1" parent="1" source="5iJU_Su8zKrEEDDgplCR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5iJU_Su8zKrEEDDgplCR-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5iJU_Su8zKrEEDDgplCR-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span&gt;courbure &lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(234, 236, 240);&quot;&gt;=&lt;/span&gt;&lt;span&gt; trimesh&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;.&lt;/span&gt;&lt;span&gt;curvature&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;.&lt;/span&gt;&lt;span&gt;discrete_gaussian_curvature_measure&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;(&lt;/span&gt;&lt;span&gt;mesh&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;,&lt;/span&gt;&lt;span&gt; mesh&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;.&lt;/span&gt;&lt;span&gt;vertices&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;,&lt;/span&gt;&lt;span&gt; radius&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(234, 236, 240);&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(94, 237, 237);&quot;&gt;0.5&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;)&lt;/span&gt;" vertex="1">
+        <mxCell id="5iJU_Su8zKrEEDDgplCR-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span&gt;courbure &lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(234, 236, 240);&quot;&gt;=&lt;/span&gt;&lt;span&gt; trimesh&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;.&lt;/span&gt;&lt;span&gt;curvature&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;.&lt;/span&gt;&lt;span&gt;discrete_gaussian_curvature_measure&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;(&lt;/span&gt;&lt;span&gt;mesh&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;,&lt;/span&gt;&lt;span&gt; mesh&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;.&lt;/span&gt;&lt;span&gt;vertices&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;,&lt;/span&gt;&lt;span&gt; radius&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(234, 236, 240);&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(94, 237, 237);&quot;&gt;0.5&lt;/span&gt;&lt;span class=&quot;token token&quot; style=&quot;color: rgb(211, 215, 222);&quot;&gt;)&lt;/span&gt;" vertex="1">
           <mxGeometry height="110" width="360" x="1010" y="2592.5" as="geometry" />
         </mxCell>
         <mxCell id="5iJU_Su8zKrEEDDgplCR-33" edge="1" parent="1" source="5iJU_Su8zKrEEDDgplCR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5iJU_Su8zKrEEDDgplCR-27">
